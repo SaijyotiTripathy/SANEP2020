@@ -15,4 +15,14 @@ https://www.kaggle.com/rishabh6377/india-national-education-policy2020-tweets-da
 
 # REFERENCES
 https://towardsdatascience.com/sentiment-analysis-on-the-tweets-about-distance-learning-with-textblob-cc73702b48bc
+
 https://www.kaggle.com/rishabh6377/sentiment-analysis-using-textblob-suggestions
+
+https://www.w3schools.com/
+
+https://planspace.org/20150607-textblob_sentiment/
+
+# WEEKLY REPORT
+WEEK 1 : Data Cleaning
+
+WEEK 2 : Data Visualization
