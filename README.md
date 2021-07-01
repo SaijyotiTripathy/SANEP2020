@@ -23,8 +23,8 @@ https://www.w3schools.com/
 https://planspace.org/20150607-textblob_sentiment/
 
 # WEEKLY REPORT
-WEEK 1 : Data Cleaning
+WEEK 1 : Data Cleaning,  Data Visualization
 
-WEEK 2 : Data Visualization
+WEEK 2 : Machine Learning Model
 
-WEEK 3 : Machine Learning Model
+WEEK 3 : Implementation 
